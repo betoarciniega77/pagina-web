@@ -1,19 +1,29 @@
 body{
 	font-size: 16px;
-	background: #ccc;
+	background: #eee;
+}
+header{
+	background: #aaa;
+	text-align: center;
+	margin: 0 auto;
+	padding: 1em;
+	
 }
 h1{
-	max-width: 1200px;
-	margin: 0 auto;
-	text-align: center;
-	background: blue;
-	padding: 1em;
+	/*max-width: 1200px;*/
 	font-size: 3em;
 }
+
 section{
-	max-width: 1200px;
+
 	background: white;
 	color:#555;
-	margin: 0 auto;
 	padding: 1em;
+}
+footer{
+	padding: 1em;
+	font-size: 1.5em;
+	background: #aaa;
+	border-top: 1px solid #555;
+	text-align: center;
 }
