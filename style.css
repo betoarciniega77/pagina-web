@@ -10,3 +10,10 @@ h1{
 	padding: 1em;
 	font-size: 3em;
 }
+section{
+	max-width: 1200px;
+	background: white;
+	color:#555;
+	margin: 0 auto;
+	padding: 1em;
+}
