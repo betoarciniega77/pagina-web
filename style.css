@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
 body{
+	font-family: 'Lato', Arial, sans-serif; 
 	font-size: 16px;
 	background: #eee;
 }
@@ -32,4 +34,29 @@ footer{
 	width:600px;
 	margin: 0 auto;
 	text-align: center;
-	
+}
+
+@media screen and (max-width: 768px){
+	header h1{
+		font-size:2em;
+	}
+	header h2{
+		font-size: 1.2em;
+	}
+	footer {
+		padding: 0.5em;
+		font-size: 1em;
+		background: #80AC58;
+		border-top: 1px solid #666;
+		text-align: center;
+
+	}
+	#img1 {
+		
+		width: 100%;
+	}
+	#img1 img {
+		width:100%;
+	}
+
+}
