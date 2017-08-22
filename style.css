@@ -3,7 +3,7 @@ body{
 	background: #eee;
 }
 header{
-	background: #aaa;
+	background: #80AC58;
 	text-align: center;
 	margin: 0 auto;
 	padding: 1em;
@@ -23,7 +23,12 @@ section{
 footer{
 	padding: 1em;
 	font-size: 1.5em;
-	background: #aaa;
+	background: #80AC58;
 	border-top: 1px solid #666;
 	text-align: center;
 }
+#img1{
+	width:600px;
+	margin: 0 auto;
+	text-align: center;
+	
